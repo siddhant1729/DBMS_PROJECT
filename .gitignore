@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VSCode settings
+.vscode/
+
+# Temporary
+*.log
+*.tmp
+
+# Backup or exports
+*.bak
+#photos
+*.jpg
